@@ -1,0 +1,31 @@
+{
+  "name": "gulp-responsive-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resp.js",
+  "dependencies": {
+    "gulp-responsive": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marko-36/gulp-responsive-sandbox.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-responsive",
+    "image-optimization",
+    "responsive-images",
+    "minification",
+    "seo"
+  ],
+  "author": "marko-36",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/marko-36/gulp-responsive-sandbox/issues"
+  },
+  "homepage": "https://github.com/marko-36/gulp-responsive-sandbox#readme"
+}
